@@ -1,11 +1,12 @@
 This repository documents GridSense AI, a SaaS platform designed to predict electricity theft, forecast true demand, and predict transformer/blackout failures 24 hours in advance — for India's Tier 2/3 power distribution companies (DISCOMs). The product works entirely on data every DISCOM already generates (monthly billing CSVs, energy audit files, feeder logs) — no smart meters or SCADA infrastructure required.
+
 This project was built end-to-end across two phases: a structured ideation and product-strategy phase, followed by ground-level field validation at an operational DISCOM sub-division. The repository contains all three deliverables from the sprint.
 
 Repository Contents
 2673_StartupSprint/
-├── 2673_Pitchdeck_StartupSprint.pdf            # Investor-facing pitch deck
-├── 2673_ProblemSolutionReport_StartupSprint.pdf # Phase 1 ideation & technical architecture report
-└── 2673_SprintJourney_StartupSprint.pdf         # Phase 2 field research & implementation report
+1) 2673_Pitchdeck_StartupSprint.pdf            # Investor-facing pitch deck
+2) 2673_ProblemSolutionReport_StartupSprint.pdf # Phase 1 ideation & technical architecture report
+3) 2673_SprintJourney_StartupSprint.pdf         # Phase 2 field research & implementation report
 
 Document Overview
 1. Pitch Deck — 2673_Pitchdeck_StartupSprint.pdf
